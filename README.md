@@ -1,0 +1,2 @@
+# Text-To-Music
+Stable Audio Tools is a deep learning framework that generates music or soundscapes from text descriptions. By using pretrained models, it translates written input into audio compositions, capturing the mood and atmosphere described. The process involves leveraging neural networks to create musical elements that match the given text. It is capable of generating complex soundscapes that can evoke emotions or tell stories. The tool is particularly useful for creative applications like game soundtracks or audio-based art.
